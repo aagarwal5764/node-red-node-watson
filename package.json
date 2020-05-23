@@ -54,7 +54,11 @@
       "watson-text-to-speech-corpus-builder-v1": "services/text_to_speech/v1-corpus-builder.js",
       "watson-tone-analyzer-v3": "services/tone_analyzer/v3.js",
       "watson-visual-recognition-v3": "services/visual_recognition/v3.js",
-      "watson-visual-recognition-collection-utils-v4": "services/visual_recognition/v4-collection-utils.js"
+      "watson-visual-recognition-collection-utils-v4": "services/visual_recognition/v4-collection-utils.js",
+      "node-red-node-ui-microphone":"0.x",
+      "node-red-dashboard":"2.x",
+      "node-red-contrib-play-audio":"2.x",
+      "node-red-contrib-twc-covid19-tracker":"0.x"
     }
   },
   "engines": {
